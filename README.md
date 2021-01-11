@@ -1,4 +1,4 @@
-![Dependencies](https://david-dm.org/rdarida/typescript-template/status.svg) ![Development Dependencies](https://david-dm.org/rdarida/typescript-template/dev-status.svg)
+![Dependencies](https://david-dm.org/rdarida/typescript-template/status.svg) ![Development Dependencies](https://david-dm.org/rdarida/typescript-template/dev-status.svg) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rdarida_typescript-template&metric=alert_status)](https://sonarcloud.io/dashboard?id=rdarida_typescript-template) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=rdarida_typescript-template&metric=coverage)](https://sonarcloud.io/dashboard?id=rdarida_typescript-template)
 
 # TypeScript Template
 Kick off your project with this template.
