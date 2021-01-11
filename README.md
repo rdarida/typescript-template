@@ -1,10 +1,10 @@
-![Dependencies](https://david-dm.org/rdarida/project-template/status.svg) ![Development Dependencies](https://david-dm.org/rdarida/project-template/dev-status.svg)
+![Dependencies](https://david-dm.org/rdarida/typescript-template/status.svg) ![Development Dependencies](https://david-dm.org/rdarida/typescript-template/dev-status.svg)
 
-# Project Template
+# TypeScript Template
 Kick off your project with this template.
 
 ## Project setup
-1. Rename all the occurrance of **"project-template"** and **"Project Template"** in the project.
+1. Rename all the occurrance of **"typescript-template"** and **"TypeScript Template"** in the project.
 
 2. Remove **`package-lock.json`** from **`.gitignore`**.
 
@@ -44,3 +44,7 @@ A quick look at the top-level files and directories.
 6. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project. See more about the manifest file [here](https://docs.npmjs.com/cli/v6/configuring-npm/package-json).
 
 7. **`README.md`**: A text file containing useful reference information about your project.
+
+## Resources
+
+- [Step by step: Building and publishing an NPM TypeScript package](https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c)
