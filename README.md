@@ -1,7 +1,18 @@
-![Dependencies](https://david-dm.org/rdarida/typescript-template/status.svg) ![Development Dependencies](https://david-dm.org/rdarida/typescript-template/dev-status.svg) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rdarida_typescript-template&metric=alert_status)](https://sonarcloud.io/dashboard?id=rdarida_typescript-template) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=rdarida_typescript-template&metric=coverage)](https://sonarcloud.io/dashboard?id=rdarida_typescript-template)
-
-# TypeScript Template
-Kick off your project with this template.
+<h1 align="center">typescript-template</h1>
+<p align="center">Kick off your project with this template</p>
+<p align="center">
+  <a href="https://sonarcloud.io/dashboard?id=rdarida_typescript-template" target="_blank" alt="Project on SonarCloud">
+    <img alt="Quality Gate Status" src="https://sonarcloud.io/api/project_badges/measure?project=rdarida_typescript-template&metric=alert_status" />
+  </a>
+  
+  <a href="https://sonarcloud.io/dashboard?id=rdarida_typescript-template" target="_blank" alt="Project on SonarCloud">
+    <img alt="Coverage" src="https://sonarcloud.io/api/project_badges/measure?project=rdarida_typescript-template&metric=coverage" />
+  </a>
+  
+  <img alt="dependencies" src="https://david-dm.org/rdarida/typescript-template/status.svg" />
+  <img alt="devDependenceis" src="https://david-dm.org/rdarida/typescript-template/dev-status.svg" />
+</p>
+<hr>
 
 ## Project setup
 1. Create new GitHub repository from this template.
